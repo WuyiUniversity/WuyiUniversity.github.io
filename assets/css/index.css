@@ -27,3 +27,17 @@
   .marketing p + h4 {
       margin-top: 28px;
   }
+  .index-p{
+    margin-top: 6px;
+    margin-bottom: 4px;
+    font-size: 0.8em;
+  }
+  .index-author {
+    margin-top: 22px;
+  }
+  .index-author h5{
+    font-size: 1.1em;
+  }
+  .index-author small{
+    color: #999999;
+  }
